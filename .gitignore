@@ -17,3 +17,6 @@ htmlcov/
 .DS_Store
 node_modules/
 frontend/dist/
+
+# Local Netlify folder
+.netlify
